@@ -1,10 +1,9 @@
 # Advanced Techniques for Entity Resolution and Duplicate Detection
 
-## Introduction
 Welcome to the "Advanced Techniques for Entity Resolution and Duplicate Detection" notebook. In the realm of data management and analysis, maintaining data quality is of paramount importance. Duplicate entries within datasets can lead to skewed results and erroneous insights. The process of entity resolution involves identifying and consolidating duplicate records that correspond to the same real-world entity. This notebook explores advanced techniques for achieving accurate entity resolution and duplicate detection, utilizing two sophisticated methodologies: **Token Blocking and Meta-Blocking**.
 
 ## Notebook Overview
-This notebook is structured to address the following tasks:
+The provided repository's jupyter notebook is structured to address the following tasks:
 
 ### Task A: Token Blocking for Block Creation
 In this section, we delve into Token Blocking, a schema-agnostic approach that generates blocks using Key-Value (K-V) pairs. These pairs encapsulate distinct Blocking Keys (BKs), derived from entity attribute values. The id column is excluded from the process to ensure precision. Transforming attribute strings to lowercase during token creation minimizes mismatches. The outcome is an index of comprehensive BKs, elegantly presented using a function designed for clear Key-Value pair visualization. 
