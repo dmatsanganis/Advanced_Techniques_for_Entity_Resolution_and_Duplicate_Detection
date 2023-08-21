@@ -2,6 +2,44 @@
 
 Welcome to the "Advanced Techniques for Entity Resolution and Duplicate Detection" notebook. In the realm of data management and analysis, maintaining data quality is of paramount importance. Duplicate entries within datasets can lead to skewed results and erroneous insights. The process of entity resolution involves identifying and consolidating duplicate records that correspond to the same real-world entity. This notebook explores advanced techniques for achieving accurate entity resolution and duplicate detection, utilizing two sophisticated methodologies: **Token Blocking and Meta-Blocking**.
 
+# Entity Resolution Assignment
+
+## Overview
+This repository is dedicated to the exploration and analysis of the intricate domain of entity resolution with a specific emphasis on duplicate detection. Throughout the document, various advanced methodologies have been used to ensure data precision and uphold data integrity.
+
+## Abstract
+The assignment targets the complex realm of entity resolution and duplicate detection, leveraging advanced techniques to enhance data precision and integrity. The work progresses through a structured sequence of tasks, each contributing to a nuanced understanding of the methodologies in question.
+
+## Key Sections
+
+1. **Token Blocking for Block Creation**: This section focuses on the Token Blocking approach, a schema-agnostic method, as a strategy for block creation.
+
+2. **Jaccard Similarity with Emphasis on Title**: Titles often encapsulate the primary essence of entities. This section explores the significance of the 'title' attribute of entities and employs the Jaccard Similarity Function to determine how these titles align and contribute to the entity resolution process.
+
+3. **Discussions and Methodologies**: Various strategies and methods are explored in detail throughout the document, providing insights into the decision-making process and analytical reasoning behind each choice.
+
+## Deliverables
+
+- **Documentation Report**: This in-depth document elucidates the methodology, findings, and implications. It serves as a comprehensive guide for readers to grasp the importance of the entity resolution process.
+
+- **Analysis Jupyter Notebook**: A practical accompaniment to the documentation, this Jupyter Notebook contains the actual code implementation and analysis. Developed using Python 3.10, the notebook offers a hands-on view of the techniques described, allowing readers to dive into the coding and analytical practices employed.
+
+## Author
+- Dimitris Matsanganis (f2822212)
+
+## Supervisor
+- Mr. Giorgos Alexiou
+
+## Submitted On
+August 31st, 2023
+
+## Part of
+MSc in Business Analytics, Full-Time 2022-2023
+
+## Note
+For a profound understanding of the intricate subject matter, readers are encouraged to explore both the documentation and the Jupyter Notebook, as they offer complementary views on the entity resolution tasks.
+
+
 ## Notebook Overview
 The provided repository's jupyter notebook is structured to address the following tasks:
 
